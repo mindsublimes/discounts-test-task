@@ -1,5 +1,8 @@
-# Project Name
-
+## Project Steup 
+-- npm install
+-- npm run dev 
+## node version 20
+ --  v20.12.1
 ## Introduction
 Briefly introduce the project and its purpose.
 
